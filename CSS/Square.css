@@ -1,0 +1,21 @@
+.red
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.red:hover
+{
+    background-color: blue;
+}
+
+.blue
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.blue:hover
+{
+    background-color: red;
+}
